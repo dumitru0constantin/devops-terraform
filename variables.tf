@@ -1,6 +1,6 @@
-#variable "region" {
-#  description = "AWS Region"
-#}
+variable "region" {
+  description = "AWS Region"
+}
 
 variable "instance_type" {
   description = "Instance type"
